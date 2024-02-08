@@ -1,6 +1,3 @@
-Sure, here's the README.md file for the Rock Paper Scissors game:
-
-```markdown
 # Rock Paper Scissors Game
 
 This is a simple Rock Paper Scissors game implemented in Python.
@@ -14,9 +11,9 @@ This is a simple Rock Paper Scissors game implemented in Python.
 ## How to Play
 
 1. Clone or download the script to your local machine.
-2. Run the script using a Python interpreter.
+2. Run the script using a Python interpreter.  
    ```bash
-   python rock_paper_scissors.py
+   python rock paper scissors.py
    ```
 3. Follow the instructions to input your choice (Rock, Paper, or Scissors).
 4. The computer will randomly select its choice.
@@ -33,8 +30,9 @@ This project is licensed under the Apache License. Feel free to use and modify t
 
 ## Author
 
-Rakesh Kanna
+[Rakesh Kanna](https://github.com/rakeshkanna-rk)
 
 Feel free to reach out with any questions or feedback!
 
-Enjoy playing Rock Paper Scissors!
+**Enjoy playing Rock Paper Scissors!  
+🧱 📄 ✂**
