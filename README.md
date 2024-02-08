@@ -1,4 +1,4 @@
-# Mini Python Projects Repository
+# Mini Python Projects Repository | PY Mini - v1.0
 
 Welcome to the Mini Python Projects repository! This repository is a collection of beginner-friendly Python projects designed to help you grow your knowledge and skills in Python programming. Whether you're just starting out or looking for some fun projects to sharpen your skills, you'll find something interesting here.
 
